@@ -12,7 +12,7 @@
     "mongodb",
     "experss"
   ],
-  "author": "akshay kashyap",
+  "author": "Masthanvali",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0",
